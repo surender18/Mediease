@@ -14,6 +14,7 @@ const Doctors = () => {
       setFilterDoc(doctors)
     }
   }
+  
   useEffect(()=>{
     applyFilter()
   },[doctors,speciality])
