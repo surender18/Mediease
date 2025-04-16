@@ -1,0 +1,23 @@
+Primary Colors:
+Primary (Brand Color): #0A6C74 (Deep Teal – conveys trust and professionalism)
+
+Secondary: #5AC8C8 (Soft Aqua – refreshing and calming)
+
+Accent: #F9A826 (Warm Yellow – highlights CTAs effectively)
+
+Background Colors:
+Primary Background: #F4F8F9 (Very Light Blue – clean and modern)
+
+Secondary Background: #E3F2F1 (Muted Aqua – adds a subtle touch of color)
+
+Text Colors:
+Primary Text: #1A1A1A (Almost Black – great for readability)
+
+Secondary Text: #4F6F72 (Muted Gray-Blue – for less prominent text)
+
+Additional Shades:
+Border/Line Color: #C7E2E2 (Light Teal)
+
+Success (e.g., for notifications): #2BAE66 (Green)
+
+Error/Warning: #E63946 (Medical Red)
