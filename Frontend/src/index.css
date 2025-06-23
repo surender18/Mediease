@@ -11,3 +11,8 @@
 *{
     font-family: 'Outfit', sans-serif;
 }
+@media(max-width: 740px){
+    .active p{
+        @apply text-white bg-[#0A6C74]
+    }
+}
